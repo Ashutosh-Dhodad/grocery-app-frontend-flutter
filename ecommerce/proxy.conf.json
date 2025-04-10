@@ -1,0 +1,9 @@
+{
+    "/": {
+      "target": "http://192.168.97.151:8081",
+      "secure": false,
+      "logLevel": "debug",
+      "changeOrigin": true
+    }
+  }
+  
